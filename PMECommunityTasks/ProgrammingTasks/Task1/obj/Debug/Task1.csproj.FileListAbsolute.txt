@@ -1,0 +1,6 @@
+C:\Users\k_asogwa\Documents\Visual Studio 2013\Projects\PMECommunityTasks\ProgrammingTasks\Task1\bin\Debug\Task1.exe.config
+C:\Users\k_asogwa\Documents\Visual Studio 2013\Projects\PMECommunityTasks\ProgrammingTasks\Task1\bin\Debug\Task1.exe
+C:\Users\k_asogwa\Documents\Visual Studio 2013\Projects\PMECommunityTasks\ProgrammingTasks\Task1\bin\Debug\Task1.pdb
+C:\Users\k_asogwa\Documents\Visual Studio 2013\Projects\PMECommunityTasks\ProgrammingTasks\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\Users\k_asogwa\Documents\Visual Studio 2013\Projects\PMECommunityTasks\ProgrammingTasks\Task1\obj\Debug\Task1.exe
+C:\Users\k_asogwa\Documents\Visual Studio 2013\Projects\PMECommunityTasks\ProgrammingTasks\Task1\obj\Debug\Task1.pdb

@@ -1,0 +1,6 @@
+c:\users\k_asogwa\documents\visual studio 2013\Projects\PMECommunityTasks\ProgrammingTasks\Task2\bin\Debug\Task2.exe.config
+c:\users\k_asogwa\documents\visual studio 2013\Projects\PMECommunityTasks\ProgrammingTasks\Task2\bin\Debug\Task2.exe
+c:\users\k_asogwa\documents\visual studio 2013\Projects\PMECommunityTasks\ProgrammingTasks\Task2\bin\Debug\Task2.pdb
+c:\users\k_asogwa\documents\visual studio 2013\Projects\PMECommunityTasks\ProgrammingTasks\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+c:\users\k_asogwa\documents\visual studio 2013\Projects\PMECommunityTasks\ProgrammingTasks\Task2\obj\Debug\Task2.exe
+c:\users\k_asogwa\documents\visual studio 2013\Projects\PMECommunityTasks\ProgrammingTasks\Task2\obj\Debug\Task2.pdb
